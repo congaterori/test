@@ -1,0 +1,1 @@
+["{\"a\":\"One Piece\",\"b\":\"https:\/\/cdnimg.xyz\/images\/anime\/One-piece.jpg\",\"c\":\"https:\/\/gogoanimee.com\/category\/one-piece\",\"e\":\"Released: 1999\",\"f\":\"\",\"g\":\"\",\"h\":\"\",\"i\":\"\"}"]
